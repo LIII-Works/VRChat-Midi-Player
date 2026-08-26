@@ -21,6 +21,8 @@ py -m pip install -r requirements.txt
 py midi_osc_player.py
 ```
 
+For an easier start, double-click **Start VRChat MIDI Player.cmd**. It installs the requirements automatically and starts the player.
+
 When prompted, choose the `VRChat MIDI` output port and enter a `.mid` file path.
 
 Press Ctrl+C to stop the current song and return to the prompt. Leave the prompt blank (or press Ctrl+C there) to quit.
