@@ -14,14 +14,7 @@ Command-line MIDI-file player for VRChat worlds using native `VRC Midi Listener`
 ```
 
 5. Start VRChat and enter a world that contains a `VRC Midi Listener`.
-6. Install this program's Python dependencies:
-
-```powershell
-py -m pip install -r requirements.txt
-py midi_osc_player.py
-```
-
-For an easier start, double-click **Start VRChat MIDI Player.cmd**. It installs the requirements automatically and starts the player.
+6. Double-click **Start VRChat MIDI Player.cmd**. It installs the requirements automatically and starts the player.
 
 When prompted, choose the `VRChat MIDI` output port and enter a `.mid` file path.
 
